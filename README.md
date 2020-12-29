@@ -30,4 +30,4 @@ A Full stack Development Enthusiast ⚡. My Skills Includes React.js, Node.js, E
 - 🤔 I’m Ready to solve your Queries.
 - 💬 Ask me Anything About My Experties.
 - 📫 How to reach me: sainsagar96@gmail.com
-- 😄 Fun fact: Hugngry to Learn.
+- 😄 Fun fact: Hungry to Learn.
