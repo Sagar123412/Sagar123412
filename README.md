@@ -28,6 +28,6 @@ A Full stack Development Enthusiast ⚡. My Skills Includes React.js, Node.js, E
                    Express.js, MongoDM etc.
 - 👯 I’m looking to collaborate with amazing Developers.
 - 🤔 I’m Ready to solve your Queries.
-- 💬 Ask me Anything About My Experties.
+- 💬 Ask me Anything.
 - 📫 How to reach me: sainsagar96@gmail.com
 - 😄 Fun fact: Hungry to Learn.
