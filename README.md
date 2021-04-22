@@ -1,7 +1,7 @@
 # Hey There, I'm < Sagar Sain >
 
 
-A Full stack JavaScript Developer⚡. My Skills Includes React.js, Node.js, Express.js, MongoDB, Material UI and I love JavaScript. Building amazing project using these technologies. Always Trying to master in these tools and Technologies. love to play guitar and also like to sing sometimes. 
+A JavaScript Developer⚡. My Skills Includes React.js, Node.js, Express.js, MongoDB, Material UI and I love JavaScript. Building amazing project using these technologies. Always Trying to master in these tools and Technologies. love to play guitar and also like to sing sometimes. 
 
 <br />
 <br />
