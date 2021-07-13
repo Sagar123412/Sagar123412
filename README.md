@@ -11,7 +11,7 @@ A JavaScript Developer⚡. My Skills Includes React.js, Node.js, HTML, CSS, Boot
 ## Something About Me
 
 - 🔭  My Skills : JavaScript, React.js, Node.js
-                   Express.js, MongoDM etc.
+                   HTML, CSS etc.
 - 👯 I’m looking to collaborate with amazing Developers.
 - 🤔 I’m Ready to solve your Queries.
 - 💬 Ask me Anything.
