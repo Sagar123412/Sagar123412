@@ -10,8 +10,7 @@ A JavaScript Developer⚡. My Skills Includes React.js, HTML, CSS, Bootstrap, Ma
 
 ## Something About Me
 
-- 🔭  My Skills : JavaScript, React.js, Node.js
-                   HTML, CSS etc.
+- 🔭  My Skills : JavaScript, React.js, Material, HTML, CSS etc.
 - 👯 I’m looking to collaborate with amazing Developers.
 - 🤔 I’m Ready to solve your Queries.
 - 💬 Ask me Anything.
