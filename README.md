@@ -1,7 +1,7 @@
 # Hey There, I'm < Sagar Sain >
 
 
-A JavaScript Developer⚡. My Skills Includes React.js, HTML, CSS, Bootstrap, Material UI and I love JavaScript. Building amazing project using these technologies. Always Trying to master in these tools and Technologies. My hobbies are cooking analyzing websites and I also love to sing sometime. 
+A Frontend Developer⚡. My Skills Includes React.js, Redux, HTML, CSS, Bootstrap, Material UI and I love JavaScript. Building amazing project using these technologies. Always Trying to master in these tools and Technologies. My hobbies are cooking analyzing websites and I also love to sing sometime. 
 
 <br />
 <br />
@@ -10,7 +10,7 @@ A JavaScript Developer⚡. My Skills Includes React.js, HTML, CSS, Bootstrap, Ma
 
 ## Something About Me
 
-- 🔭  My Skills : JavaScript, React.js, Material, HTML, CSS etc.
+- 🔭  My Skills : JavaScript, React.js, Redux, Material UI, HTML, CSS etc.
 - 👯 I’m looking to collaborate with amazing Developers.
 - 🤔 I’m Ready to solve your Queries.
 - 💬 Ask me Anything.
