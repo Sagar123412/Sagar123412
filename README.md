@@ -1,7 +1,7 @@
 # Hey There, I'm < Sagar Sain >
 
 
-A Frontend Developer⚡. My Skills Includes React.js, Redux, HTML, CSS, Bootstrap, Material UI and I love JavaScript. Building amazing project using these technologies. Always Trying to master in these tools and Technologies. My hobbies are cooking analyzing websites and I also love to sing sometime. 
+A Javascript Developer⚡. My Skills Includes React.js, Redux, Next.js, Node.js, MongoDB, HTML, CSS, Bootstrap, Material UI and I love JavaScript. Building amazing project using these technologies. Always Trying to master in these tools and Technologies. My hobbies are cooking analyzing websites and I also love to sing sometime. 
 
 <br />
 <br />
@@ -10,7 +10,7 @@ A Frontend Developer⚡. My Skills Includes React.js, Redux, HTML, CSS, Bootstra
 
 ## Something About Me
 
-- 🔭  My Skills : JavaScript, React.js, Redux, Material UI, HTML, CSS etc.
+- 🔭  My Skills : JavaScript, React.js, Next.js, Node.js, MongoDB, Redux, Jest, Enzyme, Material UI, HTML, CSS etc.
 - 👯 I’m looking to collaborate with amazing Developers.
 - 🤔 I’m Ready to solve your Queries.
 - 💬 Ask me Anything.
