@@ -1,6 +1,6 @@
 # Hey There, I'm < Sagar Sain >
 
-A Javascript Developer⚡. My Skills Includes React.js, Redux, Next.js, Node.js, MongoDB, HTML, CSS, Bootstrap, Material UI and I love JavaScript. Building amazing project using these technologies. Always Trying to master in these tools and Technologies. My hobbies are cooking analyzing websites and I also love to sing sometime. 
+A Javascript Developer⚡. My Skills Includes React.js, Redux, Next.js, Node.js, MongoDB, PostgresQL, HTML, CSS, Bootstrap, Material UI and I love JavaScript. Building amazing project using these technologies. Always Trying to master in these tools and Technologies. My hobbies are cooking analyzing websites and I also love to sing sometime. 
 <br />
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif?raw=true" width="500" height="320" />
