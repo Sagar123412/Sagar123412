@@ -11,7 +11,6 @@ A Javascript Developer⚡. My Skills Includes React.js, Redux, Next.js, Node.js,
 - 👯 I’m looking to collaborate with amazing Developers.
 - 🤔 I’m Ready to solve your Queries.
 - 💬 Ask me Anything.
-- 📫 How to reach me: sainsagar96@gmail.com
 - 😄 Fun fact: Many..
 
 <br />
