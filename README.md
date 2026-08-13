@@ -17,6 +17,12 @@ A Javascript Developer⚡. My Skills Includes React.js, Redux, Next.js, Node.js,
 
 ### Languages and Tools:
 
+<!-- Node.js -->
+<img align="left" alt="Node.js" width="26px" src="https://githubusercontent.com" />
+<!-- NestJS -->
+<img align="left" alt="NestJS" width="26px" src="https://githubusercontent.com" />
+<!-- PostgreSQL -->
+<img align="left" alt="PostgreSQL" width="26px" src="https://githubusercontent.com" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
